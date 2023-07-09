@@ -1,4 +1,4 @@
-## NOC Telegram Account
+## Telegram Support: Account Service
 ### Description
 Telegram Support Account service is a Telegram automation that allows you to manage your Telegram account from the API. It is written in Python Flask and uses the [pyrogram](https://docs.pyrogram.org).
 ### Features
